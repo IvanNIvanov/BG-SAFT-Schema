@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<nsSAFT:AuditFile xmlns:doc="urn:schemas-OECD:schema-extensions:documentation xml:lang=en" xmlns:nsSAFT="mf:nra:dgti:dxxxx:declaration:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+<nsSAFT:AuditFile xmlns:doc="urn:schemas-OECD:schema-extensions:documentation" xml:lang="en" xmlns:nsSAFT="mf:nra:dgti:dxxxx:declaration:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
 	<nsSAFT:Header>
 		<nsSAFT:AuditFileVersion>007</nsSAFT:AuditFileVersion>
 		<nsSAFT:AuditFileCountry>BG</nsSAFT:AuditFileCountry>
@@ -3389,3 +3389,4 @@
 		</nsSAFT:PurchaseInvoices>
 	</nsSAFT:SourceDocumentsMonthly>
 </nsSAFT:AuditFile>
+
