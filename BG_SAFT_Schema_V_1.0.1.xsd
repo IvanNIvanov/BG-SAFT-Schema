@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" id="SAF-T" targetNamespace="mf:nra:dgti:dxxxx:declaration:v1" version="1.0.1" xmlns="mf:nra:dgti:dxxxx:declaration:v1" xmlns:xdb="http://xmlns.oracle.com/xdb" xmlns:doc="urn:schemas-OECD:schema-extensions:documentation xml:lang=en" xmlns:nsSAFT="mf:nra:dgti:dxxxx:declaration:v1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xdb:storeVarrayAsTable="true" xdb:flags="1075847463" xdb:schemaURL="BG_SAFT" xdb:schemaOwner="SYSTEM" xdb:numProps="497">
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" id="SAF-T" targetNamespace="mf:nra:dgti:dxxxx:declaration:v1" version="1.0.1" xmlns="mf:nra:dgti:dxxxx:declaration:v1" xmlns:xdb="http://xmlns.oracle.com/xdb" xmlns:doc="urn:schemas-OECD:schema-extensions:documentation" xml:lang="en" xmlns:nsSAFT="mf:nra:dgti:dxxxx:declaration:v1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xdb:storeVarrayAsTable="true" xdb:flags="1075847463" xdb:schemaURL="BG_SAFT" xdb:schemaOwner="SYSTEM" xdb:numProps="497">
 	<xs:annotation>
 		<xs:documentation xml:lang="bg">Национална агенция за приходите. Български Стандартен одитен файл за данъчни цели (SAF-T) по модела на ОИСР, версия 1.0.1.
 		</xs:documentation>
@@ -4306,6 +4306,7 @@ This is the unique number issued by NRA for use by the company.</xs:documentatio
 		</xs:restriction>
 	</xs:simpleType>
 </xs:schema>
+
 
 
 
